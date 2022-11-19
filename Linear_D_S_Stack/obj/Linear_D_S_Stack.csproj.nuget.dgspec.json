@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Data Structure\\Data Structure.csproj": {}
+    "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Linear_D_S_Stack\\Linear_D_S_Stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Data Structure\\Data Structure.csproj": {
+    "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Linear_D_S_Stack\\Linear_D_S_Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Data Structure\\Data Structure.csproj",
-        "projectName": "Data Structure",
-        "projectPath": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Data Structure\\Data Structure.csproj",
+        "projectUniqueName": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Linear_D_S_Stack\\Linear_D_S_Stack.csproj",
+        "projectName": "Linear_D_S_Stack",
+        "projectPath": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Linear_D_S_Stack\\Linear_D_S_Stack.csproj",
         "packagesPath": "C:\\Users\\bilal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Data Structure\\obj\\",
+        "outputPath": "C:\\Users\\bilal\\Desktop\\Data Structure\\Data Structure Experiments in CSharp\\Linear_D_S_Stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bilal\\AppData\\Roaming\\NuGet\\NuGet.Config",
